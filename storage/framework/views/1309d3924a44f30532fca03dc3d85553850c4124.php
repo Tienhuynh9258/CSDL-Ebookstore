@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\HUYNH TIEN\Desktop\LAPTRINH\CODE-FOR-TIEN\Ebookstore_Laravel\resources\views/layouts/partials/footer.blade.php ENDPATH**/ ?>
